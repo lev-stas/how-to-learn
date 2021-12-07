@@ -1,5 +1,4 @@
-.digits {
+.footer__column_content_social {
     display: flex;
     flex-direction: column;
-    margin: 0;
 }
