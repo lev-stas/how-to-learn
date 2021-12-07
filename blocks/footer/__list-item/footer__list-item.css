@@ -1,0 +1,7 @@
+.footer__list-item {
+    margin: 0;
+}
+
+.footer__list-item:nth-of-type(2n) {
+    margin: 10px 0 10px 0;
+}
