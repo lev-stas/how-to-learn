@@ -1,4 +1,5 @@
 .footer {
     background-color: black;
     min-height: 350px;
+    position: relative;
 }
