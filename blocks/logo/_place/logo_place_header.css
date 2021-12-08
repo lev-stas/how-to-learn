@@ -4,3 +4,7 @@
     left: 64px;
     z-index: 3;
 }
+
+.logo_place_header:hover {
+    animation: scaling 0.2s linear forwards;
+}

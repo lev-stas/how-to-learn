@@ -2,3 +2,8 @@
     text-decoration: none;
     color: #2E80EC;
 }
+
+.header__link:hover {
+    color: #9fc5e8;
+    transition: color linear 0.2s;
+}
