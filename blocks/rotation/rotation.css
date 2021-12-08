@@ -1,13 +1,8 @@
 @keyframes rotation {
-    0% {
+    from {
         transform: rotate(0);
     }
-    50% {
-        transform: rotate(180deg);
-    }
-    100% {
+    to {
         transform: rotate(360deg);
     }
 }
-
-;
