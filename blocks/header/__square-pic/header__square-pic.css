@@ -4,6 +4,6 @@
     right: 0;
     width: 568px;
     height: 568px;
-    background-color: blue;
+    background-color: #2f80ed;
     animation: rotation linear 20s infinite;
 }
