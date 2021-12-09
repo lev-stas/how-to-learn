@@ -2,8 +2,6 @@
     color: white;
     line-height: 25px;
     font-size: 18px;
-    margin-top: 18px;
-    margin-bottom: 18px;
-    margin-left: 0;
+    margin: 18px auto 18px 0;
     opacity: 0.4;
 }
