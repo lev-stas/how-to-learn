@@ -5,6 +5,7 @@
 @import url(./blocks/border.css);
 @import url(./blocks/scaling/scaling.css);
 @import url(./blocks/rotation/rotation.css);
+@import url(./blocks/animation/animation.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__square-pic/header__square-pic.css);
 @import url(./blocks/header/_flex/header_flex_column.css);
@@ -12,6 +13,7 @@
 @import url(./blocks/header/__subtitle/header__subtitle.css);
 @import url(./blocks/header/__link/header__link.css);
 @import url(./blocks/header/__main-illustration/header__main-illustration.css);
+@import url(./blocks/logo/logo.css);
 @import url(./blocks/logo/_place/logo_place_header.css);
 @import url(./blocks/logo/_place/logo_place_footer.css);
 @import url(./blocks/description/description.css);
@@ -27,6 +29,7 @@
 @import url(./blocks/section-subtitle/section-subtitle.css);
 @import url(./blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(./blocks/cards/cards.css);
+@import url(./blocks/cards/__description/cards__description.css);
 @import url(./blocks/cards/__item/cards__item.css);
 @import url(./blocks/cards/__image/cards__image.css);
 @import url(./blocks/cards/__title/cards__title.css);
@@ -48,13 +51,12 @@
 @import url(./blocks/footer/__columns/footer__columns.css);
 @import url(./blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(./blocks/footer/__author/footer__author.css);
-@import url(./blocks/footer/__column/_content/footer__column_content_info.css);
+@import url(./blocks/footer/__column/footer__column.css);
 @import url(./blocks/footer/__column-heading/footer__column-heading.css);
 @import url(./blocks/footer/__column-links/footer__column-links.css);
 @import url(./blocks/footer/__column-link/footer__column-link.css);
 @import url(./blocks/footer/__social-icon/footer__social-icon.css);
-@import url(./blocks/footer/__column-list/footer__column-list.css);
-@import url(./blocks/footer/__list-item/footer__list-item.css);
+@import url(./blocks/footer/__link-text/footer__link-text.css);
 @import url(./blocks/video/video.css);
 @import url(./blocks/video/__iframes/video__iframes.css);
 @import url(./blocks/video/__iframe/video__iframe.css);

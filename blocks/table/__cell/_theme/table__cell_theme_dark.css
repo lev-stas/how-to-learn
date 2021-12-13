@@ -1,6 +1,4 @@
 .table__cell_theme_dark {
     width: 200px;
-    display: flex;
-    flex-direction: column;
     margin-top: 80px;
 }

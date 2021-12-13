@@ -2,8 +2,8 @@
 Get know some interesting facts about how to learn more effectively.
 
 #### Where to find
-This page is available on [Научиться учиться](http://exercise.lev4enko.ru)
-Available only by http protocol for now.
+This page is available on [Научиться учиться](https://exercise.lev4enko.ru)
+
 
 #### Used technologies
 This is single page web-site written on html/css
