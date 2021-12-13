@@ -6,10 +6,10 @@
     font-size: 36px;
     font-weight: normal;
     text-decoration: none;
-    color: black;
+    color: #2f80ed;
 }
 
 .feynman__link:hover {
-    color: #807B79;
+    color: #9fc5e8;
     transition: color linear 0.2s;
 }
