@@ -5,7 +5,7 @@
 @import url(./blocks/border.css);
 @import url(./blocks/scaling/scaling.css);
 @import url(./blocks/rotation/rotation.css);
-@import url(./blocks/animation/animation.css);
+@import url(./blocks/animation/rotation.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__square-pic/header__square-pic.css);
 @import url(./blocks/header/_flex/header_flex_column.css);
